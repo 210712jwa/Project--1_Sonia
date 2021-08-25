@@ -28,6 +28,7 @@ A Manager can:
 •	View an image of the receipt of a reimbursement request.
  
 Technologies 
+
 •	Java 1.8 
 •	SQL 
 •	Spring Tool Suite
@@ -39,5 +40,6 @@ Technologies
 
 
 Environment 
+
 •	Postman
 •	MariaDB
