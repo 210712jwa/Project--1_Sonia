@@ -6,6 +6,7 @@ Mandatory Requirements
 
 An Employee can: 
 •	Login. 
+
 •	View the employee home page. 
 •	Logout. 
 •	Submit a reimbursement request. 
